@@ -1,5 +1,5 @@
 {
-    "name": "Mellt",
+    "name": "mellt",
     "version": "1.0.0",
     "description": "Test the strength of a password by calculating how long it would take to brute force it",
     "keywords": [
