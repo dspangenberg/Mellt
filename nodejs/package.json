@@ -1,14 +1,24 @@
 {
-    "name": "mellt",
-    "version": "1.0.0",
-    "description": "Test the strength of a password by calculating how long it would take to brute force it",
-    "keywords": [
-        "password",
-        "password check",
-        "mellt",
-        "thor",
-        "brute force"
-    ],
-    "license": "Modified BSD",
-    "main": "./lib/Mellt.js"
+  "name": "mellt",
+  "version": "1.0.0",
+  "description": "Test the strength of a password by calculating how long it would take to brute force it",
+  "main": "./lib/mellt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fauria/Mellt"
+  },
+  "keywords": [
+    "password",
+    "password",
+    "check",
+    "mellt",
+    "thor",
+    "brute",
+    "force"
+  ],
+  "author": "fauria",
+  "license": "Modified BSD"
 }

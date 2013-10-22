@@ -1,3 +1,6 @@
+/**
+ * mellt.js
+ */
 var fs = require("fs");
 
 var data = fs.readFileSync(__dirname + '/common-passwords.txt', 'UTF-8').toString();
